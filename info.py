@@ -80,7 +80,7 @@ ADMIN_USRNM = environ.get('ADMIN_USRNM','Jai_Siya_Ram_J') # WITHOUT @
 MAIN_CHANNEL_USRNM = environ.get('MAIN_CHANNEL_USRNM','movies_hub_mkv') # WITHOUT @
 DEV_CHANNEL_USRNM = environ.get('DEV_CHANNEL_USRNM','All_In_One_Prince_Bots') # WITHOUT @
 LAZY_YT_HANDLE = environ.get('LAZY_YT_HANDLE','princerana3924')  # WITHOUT @ [  add only handle - don't add full url  ] 
-MOVIE_GROUP_USERNAME = environ.get('MOVIE_GROUP_USERNAME', "movie_search_grp) #[ without @ ]
+MOVIE_GROUP_USERNAME = environ.get('MOVIE_GROUP_USERNAME', "movie_search_grp") #[ without @ ]
 
 # Url Shortner
 URL_MODE = is_enabled((environ.get("URL_MODE","True")), False)
